@@ -24,9 +24,9 @@ my_bio = Bio(
 # 🎯 Goals
 goals = [
     "✅ Contribute to open source projects",
-    "✅ Help people understan Technology",
+    "✅ Help people understand Technology",
     "🚧 Start my own IT business",
-    "📚 Keep learning and mastering new technologies"
+    "📚 Keep learning and mastering new technologies",
     "📝 Write technical blog posts or tutorials"
 ]
 ````
