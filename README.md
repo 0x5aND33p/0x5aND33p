@@ -12,11 +12,15 @@ my_bio = Bio(
     hardware_platforms=["Raspberry Pi 🍓","Arduino 📟","ESP32 📡"],
     operating_systems=["Windows", "Linux"],
     about_me="""
-    My passion for technology started when I was a kid, wondering how computers could handle such complex tasks.
-    Fast forward to today, I am thrilled to be at a point where I can make a computer follow my instructions to solve problems.
-    I am constantly learning and experimenting with new technologies, eager to push the boundaries of what software and hardware can do.
+    My passion for technology started when I was a kid, wondering how  
+    computers could handle such complex tasks. Fast forward to today,  
+    I am thrilled to be at a point where I can make a computer follow  
+    my instructions to solve problems. I am constantly learning and  
+    experimenting with new technologies, eager to push the boundaries  
+    of what software and hardware can do.
     """
 )
+
 # 🎯 Goals
 goals = [
     "✅ Contribute to open source projects",
@@ -26,4 +30,4 @@ goals = [
     "📝 Write technical blog posts or tutorials"
 ]
 ````
-# ☕ I am always open for collaboration! If it is tech-related, count me in. Let’s build something amazing together! 📧[Send me a message](mailto:sansingh3030@gmail.com)
+## I am always open for collaboration! If it is tech-related, count me in. Let’s build something amazing together! 📧[Send me a message](mailto:sansingh3030@gmail.com)
