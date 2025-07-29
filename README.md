@@ -1,7 +1,6 @@
 # Hi there! Thanks for stopping by👋
 ```python
 my_bio = """
-# Sandeep Singh👨‍💻
 
 # Education
 Currently pursuing a BSc (Hons) in Computer Science
