@@ -5,7 +5,7 @@ My passion for technology started when I was a kid, wondering how computers
 could handle such complex tasks. Fast forward to today, I am thrilled to be at a point where I can make a computer follow my instructions to solve problems. I am constantly learning and experimenting with new technologies, eager to push the boundaries of what software and hardware can do.
 <p>&nbsp;</p>
 
-<h2 align="center">🔬 My Workshop</h2>
+<h1 align="center">🔬 My Workshop</h1>
 
 ### 🧰 Tools
 - 🖥️ **OS**: Ubuntu, Windows, Android
