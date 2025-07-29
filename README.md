@@ -1,13 +1,14 @@
-# Hi there! Thanks for stopping by👋
+<h3 align="center">Hi there! Thanks for stopping by 👋</h3>
 
-
-## About Me 🙋
+### About Me 🙋
 My passion for technology started when I was a kid, wondering how  
 computers could handle such complex tasks. Fast forward to today,  
 I am thrilled to be at a point where I can make a computer follow  
 my instructions to solve problems. I am constantly learning and  
 experimenting with new technologies, eager to push the boundaries  
 of what software and hardware can do.
+<hr> </hr>
+<p>&nbsp;</p>
 
 
 ## 🖥️ My Digital Workshop
